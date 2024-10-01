@@ -15,7 +15,7 @@ const HomePage = () => {
         return <Resume />;
       case 'portfolio':
         return <Portfolio />;
-        case 'contact':
+      case 'contact':
         return <Contactpage />;
       default:
         return <About />;
