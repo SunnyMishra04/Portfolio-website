@@ -41,7 +41,7 @@ const HomePage = () => {
           onClick={() => setActiveSection('portfolio')}
           className={`px-4 py-2 hover:text-[#febf5f] transition duration-200 ${activeSection === 'portfolio' ? ' text-[#febf5f]'  : 'text-white'}`}
         >
-          Portfolio
+          Projects
         </button>
         <button 
           onClick={() => setActiveSection('contact')}

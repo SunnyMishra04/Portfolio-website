@@ -12,7 +12,7 @@ const Resume = () => {
             <p className="text-[#febf5f]">B.Tech in Computer Science</p>
              <p className="text-[#febf5f]">2021 - 2025</p>    
                  </div>
-                 <p className="text-[#bebebe] mt-2">Relevant coursework: Data Structures, Algorithms, Web Development, Database Management</p>
+                 <p className="text-[#bebebe] mt-2">Relevant coursework: Data Structures, Algorithms, Software Engineering, Database Management</p>
  
           </div>
           <div className="bg-[#252525] p-6 rounded-lg shadow-md border border-[#444] mb-4">

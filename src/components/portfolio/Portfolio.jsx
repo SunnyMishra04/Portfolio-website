@@ -1,14 +1,14 @@
 const Portfolio = () => {
   const projects = [
     {
-      title: "Blog Platform",
+      title: "Penfolio",
       desc: "A blog platform with user authentication and markdown support",
       tech: ["Node.js", "Express", "MongoDB", "React"],
     },
     {
       title: "Task Management App",
       desc: "A React-based task management application with drag-and-drop functionality",
-      tech: ["React", "Redux", "Firebase"],
+      tech: ["React",  "Firebase"],
     },
 
     {

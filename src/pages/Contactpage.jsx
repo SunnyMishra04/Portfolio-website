@@ -31,7 +31,7 @@ const Contact = () => {
           />
         </div>
         <div>
-          <label htmlFor="email" className="block text-sm font-medium text-gray-300">Email</label>
+          <label htmlFor="email" className="block text-sm font-medium text-gray-300">E-mail</label>
           <input
             type="email"
             id="email"
@@ -56,7 +56,7 @@ const Contact = () => {
         </div>
         <div>
           <button type="submit" className="w-full bg-[#febf5f] text-white py-2 px-4 rounded-md hover:bg-[#646461] transition duration-300">
-            Send Message
+            Send Message!
           </button>
         </div>
       </form>

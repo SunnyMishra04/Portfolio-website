@@ -15,7 +15,7 @@ const Sidebar = () => {
           className="rounded-lg w-32 h-32 mb-4 border-2 border-[#FF4500] shadow-lg"
         />
         <h2 className="text-2xl font-bold mb-1 text-white">Sunny Mishra</h2>
-        <p className="text-sm text-[#febf5f] mb-3">Full Stack Developer</p>
+        <p className="text-sm text-[#febf5f] mb-3">Software Developer</p>
         <div className="flex flex-wrap justify-center gap-2 mt-2 text-xs text-gray-400 mb-4">
           <span className="bg-[#333] text-white px-2 py-1 rounded">Java</span>
           <span className="bg-[#333] text-white px-2 py-1 rounded">DevOps</span>

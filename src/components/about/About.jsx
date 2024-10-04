@@ -6,8 +6,8 @@ const HomePage = () => {
       <h3 className="text-3xl font-bold text-white mb-6 border-b border-gray-700 pb-4">About Me</h3>
       
       <p className="text-[#bebebe] text-base leading-relaxed mb-6">
-        In my final year as a CSE student and Full Stack Developer, I have cultivated a passion for solving real-world problems through code.
-        Targeting Fullstack Developer roles with an opportunity to grow and make a significant impact in the tech industry.
+        In my final year as a CSE student and Software Developer, I have cultivated a passion for solving real-world problems through code.
+        Targeting Software Developer roles with an opportunity to grow and make a significant impact in the tech industry.
       </p>
 
       <h3 className="text-2xl font-bold mb-4 text-white">What I Do</h3>
