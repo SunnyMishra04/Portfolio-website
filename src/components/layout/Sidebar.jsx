@@ -16,11 +16,11 @@ const Sidebar = () => {
         />
         <h2 className="text-2xl font-bold mb-1 text-white">Sunny Mishra</h2>
         <p className="text-sm text-[#febf5f] mb-3">Software Developer</p>
-        <div className="flex flex-wrap justify-center gap-2 mt-2 text-xs text-gray-400 mb-4">
+        {/* <div className="flex flex-wrap justify-center gap-2 mt-2 text-xs text-gray-400 mb-4">
           <span className="bg-[#333] text-white px-2 py-1 rounded">Java</span>
           <span className="bg-[#333] text-white px-2 py-1 rounded">DevOps</span>
           <span className="bg-[#333] text-white px-2 py-1 rounded">AWS</span>
-        </div>
+        </div> */}
 
         <div className="mt-4 space-y-4 w-full">
           <div className="flex items-center space-x-2 text-sm text-white">

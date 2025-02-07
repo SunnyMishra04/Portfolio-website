@@ -35,9 +35,11 @@ const Resume = () => {
              <p className="text-[#febf5f]">Sep 2023 - Oct 2023</p>    
                  </div>
           <ul className="list-disc list-inside text-[#bebebe] mt-2">
-            <li>Developed and maintained web applications using React and Node.js</li>
-            <li>Collaborated with the team to implement new features and improve existing ones</li>
-            <li>Participated in code reviews and contributed to the company best practices</li>
+            <li>Developed responsive and interactive web pages using
+            HTML5, CSS3, and JavaScript</li>
+            <li>Integrated third-party APIs to display dynamic data, for
+            real-time updates and seamless API integration</li>
+            
           </ul>
         </div>
       </div>

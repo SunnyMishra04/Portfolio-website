@@ -10,7 +10,7 @@ const HomePage = () => {
         Targeting Software Developer roles with an opportunity to grow and make a significant impact in the tech industry.
       </p>
 
-      <h3 className="text-2xl font-bold mb-4 text-white">What I Do</h3>
+      <h3 className="text-2xl font-bold mb-4 text-white">What i aspire to do</h3>
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         {[
           { title: "Data Structures & Algorithms", desc: "Enhancing problem-solving skills to find solutions for real-world problems in Tech." },
