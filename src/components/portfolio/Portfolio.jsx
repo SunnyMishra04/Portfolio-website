@@ -63,14 +63,22 @@ const Portfolio = () => {
       title: "Penfolio",
       desc: "A blog platform with user authentication and markdown support",
       tech: ["Node.js", "Express", "MongoDB", "React"],
-      link: "https://github.com/SunnyMishra04/Penfolio_MERNBlogApp", // Add the project URL here
+      link: "https://penfolio-mern-blog-app-947i.vercel.app/", // Add the project URL here
     },
+    {
+      title: "Pay-Karo",
+      desc: "A basic version of PayTm with user authentication and transaction handling",
+      tech: ["Node.js", "Express", "Mongoose", "React", "TailwindCSS", "Zod"],
+      link: "https://pay-karo-rouge.vercel.app/",
+    },
+
     {
       title: "Portfolio Website",
       desc: "A React and TailwindCSS based portfolio website ",
       tech: ["React", "TailwindCSS"],
       link: "https://github.com/SunnyMishra04/Portfolio-website", // Change this to the actual portfolio URL
     },
+
     {
       title: "Plant Disease Identification using CNN",
       desc: "Streamlit web app to identify plant diseases using Convolutional Neural Networks through a user-uploaded image",
@@ -84,12 +92,6 @@ const Portfolio = () => {
         "Streamlit",
       ],
       link: "https://github.com/SunnyMishra04/Plant_Disease_Identification_CNN", // Add the project link
-    },
-    {
-      title: "Coming Soon...",
-      desc: "Coming Soon...",
-      tech: ["Coming Soon..."],
-      link: "#", // No redirection for "Coming Soon"
     },
   ];
 
